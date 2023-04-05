@@ -166,7 +166,7 @@ def news():
     try:
 
         jsonObj = urlopen(
-            "https://newsapi.org/v2/top-headlines?country=in&apiKey=a5f3bf09546d491bb555c391ab58d365")
+            "https://newsapi.org/v2/top-headlines?country=in&apiKey=a5f3bf09546d4915")
         data = json.load(jsonObj)
         i = 1
 
@@ -187,7 +187,7 @@ def news():
 
 
 def weather():
-    api = "0ca46af0f2ee340292ff9c6d59ffb952"
+    api = "0ca46af0f2e59ffb952"
     BASE_URL = "https://api.openweathermap.org/data/2.5/weather?"
     print("for which city?")
     CITY = TakeCommand().lower()
