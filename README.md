@@ -57,4 +57,39 @@ such as shutting down the computer, taking a screenshot, or controlling the
 volume of the computer.
 • Random Jokes: The user can ask the Voice Assistant to tell a random joke, and 
 the Voice Assistant will generate a random joke
+
+=======================================================================================================================================
+Software and Hardware requirements 
+• Operation system:Windows 10 
+• Hard disk-80 gb 
+• Ram-4 gb 
+• Bandwidth-High speed (20 mbps min) 
+=================================================================================================================================================================
+ In order to run  voice assistant:
+ you have to download voice assistant.exe file and open it on your pc then it start working.
+ 
+ ===============================================================================================================================================================
+ • Command used in the project:-
+• Time:speak time command then the project tell time by using voice command 
+• Date:Speak date and it tells user to current date 
+• Search in chrome:speak search in chrome then the project ask you that what I have to search and when you say whatever you search in chrome then it search on chrome     by using voice command 
+• Youtube:speak youtube then the project ask you that what I should to search in youtube and 
+  when you say whatever you search in youtube then it search on youtube the play by 
+  youtube content by using voice command 
+• Google: speak google then the project ask you that what I should to search in google and when 
+  you say whatever you search in google then it search on google by using voice command 
+• Cpu:Speak cpu then the project tell you about cpu frequency and battery details.
+• Joke:speak joke command then the project tell you joke by using voice command .
+• Offline:speak offline command then the project get offline by using voice command 
+• Screenshot:speak screenshot command then the project take screenshot by using voice command .
+• Write a note:speak write a note command then the project write a note by using voice 
+• Note:speak note command then the project tell what you note previous by using 
+   voice command 
+• Weather:speak weather command then the project tell you about weather by using voice 
+   command and fetch the data from api.
+• News: speak news command then the project tell you about weather by using voice 
+   command and fetch the data from api.
+• Ip address: Speak what is my ip address command then the project tell you about what 
+  is the ip of your pc by using voice command .
+
  
